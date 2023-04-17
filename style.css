@@ -1,0 +1,33 @@
+html, body, canvas {
+  margin: 2;
+  padding: 2;
+  background-color: #dc89ef;
+  font-family: fantasy;
+  display: block;
+  font-size: 15px;
+  
+}
+
+button{
+  position: fixed;
+  bottom: 0;
+  border: rgb(255, 255, 255);
+  color: rgb(0);
+  display: block;
+  margin:0 auto;
+  font-family: fantasy;
+  font-size: 16px;
+  min-width: 100px;
+  
+}
+
+h2{
+  font-size: 30px;
+  padding
+}
+
+.center{
+  padding: 70px 30;
+}
+
+
